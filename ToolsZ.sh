@@ -463,15 +463,13 @@ fi
    if [ $pill = '29' ]
    then
 
-
-echo $red'Belum Buat Njeng'
+xdg-open https://api.whatsapp.com/send?phone=628989956316
 fi
 
    if [ $pill = '30' ]
    then
-
-echo '  https://chat.whatsapp.com/LYVWZcliV22HtjzPTPUEo6'
-echo 'salin Aja Link Diatas Lalu Tempel Ke Gogle'
+   
+xdg-open https://chat.whatsapp.com/LYVWZcliV22HtjzPTPUEo6
 fi
 
 
